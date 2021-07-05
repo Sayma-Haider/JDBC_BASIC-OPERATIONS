@@ -13,7 +13,7 @@ public class Jdbcdemo {
         ResultSet myRs = null;
 
         String user = "Saima";
-        String pass = "12345";
+        String pass = "*****";
 
         try {
             // 1. Get a connection to database
