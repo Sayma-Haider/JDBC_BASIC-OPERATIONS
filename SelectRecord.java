@@ -8,7 +8,7 @@ import java.sql.*;
 public class SelectRecord {
     static final String DB_URL = "jdbc:mysql://localhost:3306/STUDENTS";
     static final String USER = "Saima";
-    static final String PASS = "12345";
+    static final String PASS = "*****";
     
     public static void main(String[] args) throws SQLException {
         Connection myConn = null;
