@@ -9,7 +9,7 @@ public class CreateDb {
     
     static final String DB_URL = "jdbc:mysql://localhost/";
     static final String USER = "Saima";
-    static final String PASS = "12345";
+    static final String PASS = "*****";
     
     public static void main(String[] args) throws SQLException {
         
